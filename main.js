@@ -16,3 +16,7 @@ for (let i = 0; i < lorem.length; i++) {
 }
 let string = arr.join("")
 console.log(string);
+
+// function name(params) {
+    
+// }
