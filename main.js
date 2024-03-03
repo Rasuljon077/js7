@@ -8,7 +8,7 @@ for (let i = 0; i < lorem.length; i++) {
   if (arr[i]== "o" || arr[i] == "a" || arr[i] == "u" || arr[i] == "i" || arr[i] == "e" || arr[i]== "O" || arr[i] == "A" || arr[i] == "U" || arr[i] == "I" || arr[i] == "E" ) {
     arr.splice(i,1)
     count++
-    if (arr[i]== "o" || arr[i] == "a" || arr[i] == "u" || arr[i] == "i" || arr[i] == "e") {
+    if (arr[i]== "o" || arr[i] == "a" || arr[i] == "u" || arr[i] == "i" || arr[i] == "e"|| arr[i] == "e") {
       arr.splice(i,1)
       count++
       if (arr[i]== "o" || arr[i] == "a" || arr[i] == "u" || arr[i] == "i" || arr[i] == "e") {
